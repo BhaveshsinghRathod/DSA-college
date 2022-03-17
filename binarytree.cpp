@@ -70,6 +70,5 @@ void BT::insert(node *root, node* temp){
 int main() {
   BT b;
   b.create();
-  
-
+ 
 }
