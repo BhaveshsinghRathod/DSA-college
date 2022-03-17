@@ -31,7 +31,7 @@ void BT::create()
     char ch;
     do
     {
-           
+          
         node *temp=new node;
         cout<<"Enter data";
         cin>> temp->data;
